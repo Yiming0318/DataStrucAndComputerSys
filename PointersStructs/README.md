@@ -2,9 +2,7 @@
 ```
 
 Yiming Ge
-CS5008 Assignment2
-Takes more than 6 hours
-(Spent lot of time to solve the bonus question)
+
 Tricky Part: given struc Name's first middle and last 
 are all read only string instead of string array
 ```
