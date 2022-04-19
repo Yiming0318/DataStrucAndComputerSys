@@ -1,6 +1,5 @@
-# Assignment 6: Finding Anagrams with Hashtables
+# Finding Group Anagrams with Hashtables
 Yiming Ge
-CS 5008
 
 General Idea: Use Key to store the sorted word and use value to store a list of anagrams in the Hashtable
 python easy code (same logic as this c homework):
