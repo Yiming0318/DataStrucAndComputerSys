@@ -1,8 +1,7 @@
 ## Basic Info
 ```
 Yiming Ge
-CS5008 Assignment3 Part One
-Takes more than 6 hour
+
 Spend lots of time to figure out the valgrind, why the valgrind keep running? Is the linked list too large? or is there any problem with my malloc.
 Base on piazza discussion, try to give the node and list more bytes manually.(It seems like the problem is wifi or network problem. Valgrind works sucessfully and no errors after I using school wifi instead of the home internet.)
 ```
