@@ -1,8 +1,7 @@
-# A4 doubly linked list & Deque
+# Doubly linked list & Deque
 
 ## Summary
 ```
-CS5007
 Yiming Ge
 
 What I learned: Deque can define both stack and queue, Doubly linked list has O(n) time complexity to remove or add an node with given index.
@@ -56,8 +55,4 @@ The leftmost value is 0
 1 
 ```
 ## Other sources
-Not using any other resource except the a3 code
-
-## How long it takes me
-Around 5 hours.
-
+Not using any other resource
