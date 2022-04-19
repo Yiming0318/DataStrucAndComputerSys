@@ -1,0 +1,23 @@
+(gdb) start
+Temporary breakpoint 1 at 0x40060d
+Starting program: /home/yg2062/CS5008/Yg2062_CS5008SPRING2022/lab04/greetings 
+
+Temporary breakpoint 1, 0x000000000040060d in main ()
+(gdb) break
+Breakpoint 2 at 0x40060d
+(gdb) break
+Note: breakpoint 2 also set at pc 0x40060d.
+Breakpoint 3 at 0x40060d
+(gdb) next
+Single stepping until exit from function main,
+which has no line number information.
+Hello, Big!
+Greetings, ID: 42
+Name: Lebowski, Big
+See ya later Big!
+Good bye, ID: 42
+Lebowski, Big
+__libc_start_main (main=0x400609 <main>, argc=1, argv=0x7fffffffe048, 
+    init=<optimized out>, fini=<optimized out>, rtld_fini=<optimized out>, 
+    stack_end=0x7fffffffe038) at ../csu/libc-start.c:300
+300	  exit (result);

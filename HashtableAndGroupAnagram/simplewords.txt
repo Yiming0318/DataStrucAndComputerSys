@@ -1,0 +1,14 @@
+abc
+cba
+acb
+aa
+bb
+cc
+def
+fed
+efd
+water
+terwa
+ccp
+cpc
+pcc
