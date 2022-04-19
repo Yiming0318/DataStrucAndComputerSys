@@ -1,13 +1,3 @@
-Who did you work with (if anyone)
-Myself
-
-How long did this take you? 
-50 mins
-
-[Optional] What did you like about this lab? 
-
-[Optional] What could be improved about this lab?
-
 Where's the error?
 For grades.c , the problem is that we did not free the memory after the program end. Thus, we should add free(p); after printf("\nAverage marks = %.2f\n", sum/n);
 
