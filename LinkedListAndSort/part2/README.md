@@ -1,8 +1,7 @@
 ## Basic Info
 ```
 Yiming Ge
-CS5008 Assignment3 Part Two
-Takes more than 5 hours
+
 Tricky Part: using clock() will only get the 0.0000s running time. Using gettimeofday instead.
 ```
 
