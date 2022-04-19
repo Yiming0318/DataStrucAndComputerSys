@@ -2,11 +2,9 @@
 
 ```
 Yiming Ge
-CS5008
 
-How many hours did it take you to complete this assignment? Around 4 hours
-Did you collaborate with any other students/TAs/Professors? Who? Zixuan Xu
-Did you use any external resources? (Cite them below)
+
+External resources? (Cite them below)
 C: execve function usage: https://linuxhint.com/c-execve-function-usage/
 
 cmd line arguments: https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/
