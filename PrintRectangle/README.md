@@ -1,5 +1,24 @@
-what is in a.out
-Print out sample output in canvas including warmup
+Sample output: 
+
 PrintRectangle(5, 4)
-PrintFancyRectangle(5, 4, '+', 0)
-PrintFancyRectangle(5, 4,'*', 1)
+
+-----
+-   -
+-   -
+-----
+
+PrintFancyRectangle(5, 4, '+', 0): 
+
++++++
++   +
++   +
++++++
+
+PrintFancyRectangle(5, 4,'*', 1): 
+
+*****
+*****
+*****
+*****
+
+
