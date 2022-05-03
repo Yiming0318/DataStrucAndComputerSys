@@ -1,9 +1,7 @@
-# LAB11
+# ClientAndServer
 
 ```
 Yiming Ge
-Who did you work with? Myself
-How long did you spend on this? 3 hours 
 What outside resources did you use? 
 https://en.wikipedia.org/wiki/Transmission_Control_Protocol
 https://man7.org/linux/man-pages/man3/getaddrinfo.3.html
