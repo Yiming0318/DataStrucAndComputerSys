@@ -1,4 +1,4 @@
-# Assignment 8: Multi-threaded Searching
+# Multi-threaded Searching
 ```
 Name: Yiming Ge
 
@@ -42,12 +42,6 @@ thread 1 deal with [3, 4]
 we can find 2 in thread 1.
 
 ```
-
-# How many hours did this assignment take you?  
-10 hours
-
-# Did you collaborate with anyone? 
-Myself
 
 # External resources
 https://thispointer.com/posix-how-to-create-a-thread-pthread_create-example-tutorial/
